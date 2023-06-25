@@ -10,3 +10,15 @@ conda activate "C:\Users\USER\Documents\JupyterNB\ineuron\Python Advanced\DVC\ye
 ```
 pip install -r requirements.txt
 ```
+
+```
+dvc init
+```
+
+```
+dvc repro
+```
+
+```
+dvc dag
+```
